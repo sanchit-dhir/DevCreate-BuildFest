@@ -257,32 +257,3 @@ The application integrates with a backend API for:
 env
 VITE_API_BASE_URL=http://localhost:3000
 VITE_APP_NAME=FarmHelper
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add some amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- _React Team_ - For the amazing React framework
-- _Vite Team_ - For the fast build tool
-- _Tailwind CSS_ - For the utility-first CSS framework
-- _Open Source Community_ - For the amazing packages and tools
-
-## 📞 Support
-
-For support, email support@farmhelper.com or create an issue in the repository.
-
----
-
-_Built with ❤️ for the farming community_
-
-Empowering farmers with AI-driven agricultural insights
