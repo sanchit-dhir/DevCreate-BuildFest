@@ -9,14 +9,14 @@ Team Name : 404 Brain not found!
 
 ## env structure
 
-please include .env in backend with like this:
-PORT=3000
-JWT_SECRET="JWTTOKEN"
-DATABASE="mongodb://localhost:27017/FarmHelp"
-MyEmail="myemail"
-MyPass="myPass"
-GEMINI_API_KEY="API KEY"
-ELEVENLABS_API_KEY="Api Key"
+please include .env in backend with like this:<br>
+PORT=3000<br>
+JWT_SECRET="JWTTOKEN"<br>
+DATABASE="mongodb://localhost:27017/FarmHelp"<br>
+MyEmail="myemail"<br>
+MyPass="myPass"<br>
+GEMINI_API_KEY="API KEY"<br>
+ELEVENLABS_API_KEY="Api Key"<br>
 
 ### 🎯 Core Functionality
 
