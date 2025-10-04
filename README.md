@@ -5,7 +5,7 @@ A modern, AI-powered agricultural advisory platform built with React and Vite. B
 ## Team Details
 
 Team: T027
-Team Name : 404 Brain not found!
+Team Name : 404<br> Brain not found! <br> PPT: <a href="https://www.canva.com/design/DAG0ucFDjIQ/K0cQw7fN4QnOnrEuekjP9A/view?utm_content=DAG0ucFDjIQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h272d5fcc94">PPT Link</a>
 
 ## env structure
 
